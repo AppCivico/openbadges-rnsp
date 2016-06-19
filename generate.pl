@@ -58,15 +58,19 @@ foreach my $pref (@nodes) {
         "recipient" => {
             "type"     => "email",
             "hashed"   => JSON::false,
-            "identity" => "$estado-$cidade\@missing.com"
+            "identity" => "$uid\@missing.com"
         },
-        "image"    => "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
-        "evidence" => "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
-        "issuedOn" => time,
-        "badge"    => "$base/pcs.json",
-        "verify"   => {
+        "image"                  => "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+        "evidence"               => "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+        "issuedOn"               => time,
+        "nossasaopaulo:partido"  => $partido,
+        "nossasaopaulo:prefeito" => $prefeito,
+        "nossasaopaulo:estado"   => $estado,
+        "nossasaopaulo:cidade"   => $cidade,
+        "badge"                  => "$base/pcs.json",
+        "verify"                 => {
             "type" => "hosted",
-            "url"  => "$base/badges/$uid"
+            "url"  => "$base/badges/$uid.json"
         }
     };
     push @pref, $badge;
@@ -83,8 +87,11 @@ if ( @pref > 10 ) {
     write_file( "openbadges/organization.json", { binmode => ':utf8' }, to_json( $org, { utf8 => 1, pretty => 1 } ) );
     write_file( "openbadges/pcs.json", { binmode => ':utf8' }, to_json( $badge_pcs, { utf8 => 1, pretty => 1 } ) );
 
-    write_file( "openbadges/badges/" . $_->{uid}, { binmode => ':utf8' }, to_json( $_, { utf8 => 1, pretty => 1 } ) )
-      for @pref;
+    write_file(
+        "openbadges/badges/" . $_->{uid} . '.json',
+        { binmode => ':utf8' },
+        to_json( $_, { utf8 => 1, pretty => 1 } )
+    ) for @pref;
 
     write_file(
         "openbadges/collections.json",
