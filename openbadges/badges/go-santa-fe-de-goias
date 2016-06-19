@@ -1,0 +1,16 @@
+{
+   "issuedOn" : 1466376774,
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/go-santa-fe-de-goias",
+      "type" : "hosted"
+   },
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "uid" : "go-santa-fe-de-goias",
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "GO-Santa FÃ© de GoiÃ¡s@missing.com"
+   }
+}

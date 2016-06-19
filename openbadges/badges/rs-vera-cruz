@@ -1,0 +1,16 @@
+{
+   "recipient" : {
+      "identity" : "RS-Vera Cruz@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   },
+   "issuedOn" : 1466376774,
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/rs-vera-cruz",
+      "type" : "hosted"
+   },
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "uid" : "rs-vera-cruz"
+}

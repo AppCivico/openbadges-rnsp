@@ -1,0 +1,16 @@
+{
+   "uid" : "sp-francisco-morato",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sp-francisco-morato"
+   },
+   "issuedOn" : 1466376774,
+   "recipient" : {
+      "hashed" : false,
+      "identity" : "SP-Francisco Morato@missing.com",
+      "type" : "email"
+   }
+}

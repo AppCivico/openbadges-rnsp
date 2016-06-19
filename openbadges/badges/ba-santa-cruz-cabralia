@@ -1,0 +1,16 @@
+{
+   "recipient" : {
+      "identity" : "BA-Santa Cruz CabrÃ¡lia@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   },
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "uid" : "ba-santa-cruz-cabralia",
+   "issuedOn" : 1466376774,
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/ba-santa-cruz-cabralia",
+      "type" : "hosted"
+   },
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json"
+}

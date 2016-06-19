@@ -1,0 +1,16 @@
+{
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "uid" : "mt-alto-taquari",
+   "issuedOn" : 1466376774,
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/mt-alto-taquari"
+   },
+   "recipient" : {
+      "identity" : "MT-Alto Taquari@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   }
+}

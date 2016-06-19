@@ -1,0 +1,16 @@
+{
+   "uid" : "sp-rincao",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sp-rincao",
+      "type" : "hosted"
+   },
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "issuedOn" : 1466376774,
+   "recipient" : {
+      "type" : "email",
+      "identity" : "SP-RincÃ£o@missing.com",
+      "hashed" : false
+   }
+}

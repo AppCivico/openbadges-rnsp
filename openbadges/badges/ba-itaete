@@ -1,0 +1,16 @@
+{
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "uid" : "ba-itaete",
+   "issuedOn" : 1466376774,
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/ba-itaete"
+   },
+   "recipient" : {
+      "identity" : "BA-ItaetÃª@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   }
+}

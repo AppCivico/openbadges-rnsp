@@ -1,0 +1,16 @@
+{
+   "recipient" : {
+      "hashed" : false,
+      "identity" : "PA-BelÃ©m@missing.com",
+      "type" : "email"
+   },
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "uid" : "pa-belem",
+   "issuedOn" : 1466376774,
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/pa-belem"
+   },
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json"
+}

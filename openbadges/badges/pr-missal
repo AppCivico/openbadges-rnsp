@@ -1,0 +1,16 @@
+{
+   "recipient" : {
+      "hashed" : false,
+      "identity" : "PR-Missal@missing.com",
+      "type" : "email"
+   },
+   "uid" : "pr-missal",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/pr-missal"
+   },
+   "issuedOn" : 1466376774
+}

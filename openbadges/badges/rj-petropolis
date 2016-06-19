@@ -1,0 +1,16 @@
+{
+   "issuedOn" : 1466376774,
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/rj-petropolis"
+   },
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "uid" : "rj-petropolis",
+   "recipient" : {
+      "type" : "email",
+      "identity" : "RJ-PetrÃ³polis@missing.com",
+      "hashed" : false
+   }
+}

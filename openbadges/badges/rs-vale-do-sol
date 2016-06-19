@@ -1,0 +1,16 @@
+{
+   "recipient" : {
+      "hashed" : false,
+      "identity" : "RS-Vale do Sol@missing.com",
+      "type" : "email"
+   },
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/rs-vale-do-sol",
+      "type" : "hosted"
+   },
+   "issuedOn" : 1466376774,
+   "uid" : "rs-vale-do-sol",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos"
+}

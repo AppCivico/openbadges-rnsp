@@ -1,0 +1,16 @@
+{
+   "recipient" : {
+      "type" : "email",
+      "identity" : "MG-Visconde do Rio Branco@missing.com",
+      "hashed" : false
+   },
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/mg-visconde-do-rio-branco",
+      "type" : "hosted"
+   },
+   "issuedOn" : 1466376774,
+   "uid" : "mg-visconde-do-rio-branco",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos"
+}

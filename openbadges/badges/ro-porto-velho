@@ -1,0 +1,16 @@
+{
+   "issuedOn" : 1466376774,
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/ro-porto-velho",
+      "type" : "hosted"
+   },
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "uid" : "ro-porto-velho",
+   "recipient" : {
+      "identity" : "RO-Porto Velho@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   }
+}

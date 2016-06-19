@@ -1,0 +1,16 @@
+{
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "RJ-Niteroi@missing.com"
+   },
+   "uid" : "rj-niteroi",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/rj-niteroi"
+   },
+   "issuedOn" : 1466376774
+}

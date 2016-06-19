@@ -1,0 +1,16 @@
+{
+   "uid" : "sc-ararangua",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sc-ararangua"
+   },
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "issuedOn" : 1466376774,
+   "recipient" : {
+      "identity" : "SC-AraranguÃ¡@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   }
+}

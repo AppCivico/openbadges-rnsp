@@ -1,0 +1,16 @@
+{
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/pa-juruti"
+   },
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "issuedOn" : 1466376774,
+   "uid" : "pa-juruti",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "identity" : "PA-Juruti@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   }
+}

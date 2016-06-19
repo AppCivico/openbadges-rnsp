@@ -1,0 +1,16 @@
+{
+   "issuedOn" : 1466376774,
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sp-jaguariuna"
+   },
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "uid" : "sp-jaguariuna",
+   "recipient" : {
+      "type" : "email",
+      "identity" : "SP-Jaguariuna@missing.com",
+      "hashed" : false
+   }
+}

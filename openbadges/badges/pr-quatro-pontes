@@ -1,0 +1,16 @@
+{
+   "recipient" : {
+      "type" : "email",
+      "identity" : "PR-Quatro Pontes@missing.com",
+      "hashed" : false
+   },
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/pr-quatro-pontes",
+      "type" : "hosted"
+   },
+   "issuedOn" : 1466376774,
+   "uid" : "pr-quatro-pontes",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos"
+}

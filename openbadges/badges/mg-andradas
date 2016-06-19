@@ -1,0 +1,16 @@
+{
+   "issuedOn" : 1466376774,
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/mg-andradas"
+   },
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "uid" : "mg-andradas",
+   "recipient" : {
+      "hashed" : false,
+      "identity" : "MG-Andradas@missing.com",
+      "type" : "email"
+   }
+}

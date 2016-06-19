@@ -1,0 +1,10 @@
+{
+   "description" : "Uma realizaÃ§Ã£o da Rede Nossa SÃ£o Paulo, da Rede Social Brasileira por Cidades Justas e SustentÃ¡veis e do Instituto Ethos, o programa oferece uma plataforma que funciona como uma agenda para a sustentabilidade, incorporando de maneira integrada as dimensÃµes social, ambiental, econÃ´mica, polÃ­tica e cultural e abordando as diferentes Ã¡reas da gestÃ£o pÃºblica em 12 eixos temÃ¡ticos. A cada um deles estÃ£o associados indicadores, casos exemplares e referÃªncias nacionais e internacionais de excelÃªncia. Estamos diante da oportunidade de criar um novo padrÃ£o de relaÃ§Ã£o dos cidadÃ£os com a polÃ­tica, os candidatos assumindo compromissos concretos e os cidadÃ£os acompanhando os resultados desses compromissos.",
+   "criteria" : "http://cidadessustentaveis.org.br/institucional/oprograma",
+   "tags" : [
+      "Cidades SustentÃ¡veis"
+   ],
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "name" : "Programa Cidades SustentÃ¡veis",
+   "issuer" : "http://badges.nossasaopaulo.org.br/organization.json"
+}

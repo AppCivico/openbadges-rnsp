@@ -1,0 +1,16 @@
+{
+   "recipient" : {
+      "hashed" : false,
+      "identity" : "SC-TubarÃ£o@missing.com",
+      "type" : "email"
+   },
+   "issuedOn" : 1466376774,
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sc-tubarao"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "uid" : "sc-tubarao"
+}

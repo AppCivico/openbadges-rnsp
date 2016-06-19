@@ -1,0 +1,16 @@
+{
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/pe-igarassu",
+      "type" : "hosted"
+   },
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "issuedOn" : 1466376774,
+   "uid" : "pe-igarassu",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "PE-Igarassu@missing.com"
+   }
+}

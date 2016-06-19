@@ -1,0 +1,16 @@
+{
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "SP-Barueri@missing.com"
+   },
+   "issuedOn" : 1466376774,
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sp-barueri"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "uid" : "sp-barueri"
+}

@@ -1,0 +1,16 @@
+{
+   "issuedOn" : 1466376774,
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/pr-santa-helena",
+      "type" : "hosted"
+   },
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "uid" : "pr-santa-helena",
+   "recipient" : {
+      "identity" : "PR-Santa Helena@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   }
+}

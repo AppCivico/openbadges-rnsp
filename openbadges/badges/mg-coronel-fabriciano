@@ -1,0 +1,16 @@
+{
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "uid" : "mg-coronel-fabriciano",
+   "issuedOn" : 1466376774,
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/mg-coronel-fabriciano"
+   },
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "recipient" : {
+      "identity" : "MG-Coronel Fabriciano@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   }
+}
