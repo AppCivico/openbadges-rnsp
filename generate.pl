@@ -84,18 +84,18 @@ if ( @pref > 10 ) {
     mkdir "openbadges";
     mkdir "openbadges/badges";
 
-    write_file( "openbadges/organization.json", { binmode => ':utf8' }, to_json( $org, { utf8 => 1, pretty => 1 } ) );
-    write_file( "openbadges/pcs.json", { binmode => ':utf8' }, to_json( $badge_pcs, { utf8 => 1, pretty => 1 } ) );
+    write_file( "openbadges/organization.json", { binmode => ':raw' }, to_json( $org, { utf8 => 1, pretty => 1 } ) );
+    write_file( "openbadges/pcs.json", { binmode => ':raw' }, to_json( $badge_pcs, { utf8 => 1, pretty => 1 } ) );
 
     write_file(
         "openbadges/badges/" . $_->{uid} . '.json',
-        { binmode => ':utf8' },
+        { binmode => ':raw' },
         to_json( $_, { utf8 => 1, pretty => 1 } )
     ) for @pref;
 
     write_file(
         "openbadges/collections.json",
-        { binmode => ':utf8' },
+        { binmode => ':raw' },
         to_json( { badges => [ map { +{ url => $_->{verify}{url} } } @pref ] }, { utf8 => 1, pretty => 1 } )
     );
 
