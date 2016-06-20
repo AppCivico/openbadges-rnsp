@@ -1,0 +1,20 @@
+{
+   "nossasaopaulo:partido" : "Partido Democrático Trabalhista - PDT",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/rs-farroupilha.json"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "type" : "email",
+      "identity" : "rs-farroupilha@missing.com",
+      "hashed" : false
+   },
+   "uid" : "rs-farroupilha",
+   "nossasaopaulo:prefeito" : "Claiton Gonçalves",
+   "nossasaopaulo:estado" : "RS",
+   "issuedOn" : 1466455757,
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "nossasaopaulo:cidade" : "Farroupilha",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json"
+}

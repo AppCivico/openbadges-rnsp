@@ -1,0 +1,20 @@
+{
+   "issuedOn" : 1466455757,
+   "nossasaopaulo:cidade" : "Palotina",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "nossasaopaulo:estado" : "PR",
+   "nossasaopaulo:prefeito" : "Jucenir Leandro Stentzler",
+   "uid" : "pr-palotina",
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "pr-palotina@missing.com"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/pr-palotina.json"
+   },
+   "nossasaopaulo:partido" : "Partido Trabalhista Brasileiro - PTB"
+}

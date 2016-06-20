@@ -1,0 +1,20 @@
+{
+   "uid" : "pr-quatro-pontes",
+   "recipient" : {
+      "identity" : "pr-quatro-pontes@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "nossasaopaulo:partido" : "Partido dos Trabalhadores - PT",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/pr-quatro-pontes.json",
+      "type" : "hosted"
+   },
+   "issuedOn" : 1466455757,
+   "nossasaopaulo:cidade" : "Quatro Pontes",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "nossasaopaulo:estado" : "PR",
+   "nossasaopaulo:prefeito" : "Paulo Cesar Feyh"
+}

@@ -1,0 +1,20 @@
+{
+   "nossasaopaulo:estado" : "AP",
+   "nossasaopaulo:prefeito" : "Francisco de Assis Leite Teixeira",
+   "nossasaopaulo:cidade" : "Amapá",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "issuedOn" : 1466455757,
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "ap-amapa@missing.com"
+   },
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/ap-amapa.json"
+   },
+   "nossasaopaulo:partido" : "Partido Republicano Brasileiro - PRB",
+   "uid" : "ap-amapa"
+}

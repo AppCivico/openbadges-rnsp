@@ -1,0 +1,20 @@
+{
+   "nossasaopaulo:estado" : "PE",
+   "nossasaopaulo:prefeito" : "Mario Ricardo Santos de Lima",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Igarassu",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "issuedOn" : 1466455757,
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "pe-igarassu@missing.com"
+   },
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/pe-igarassu.json"
+   },
+   "nossasaopaulo:partido" : "Partido Trabalhista Brasileiro - PTB",
+   "uid" : "pe-igarassu"
+}

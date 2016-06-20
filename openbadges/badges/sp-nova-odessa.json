@@ -1,0 +1,20 @@
+{
+   "uid" : "sp-nova-odessa",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sp-nova-odessa.json"
+   },
+   "nossasaopaulo:partido" : "Partido da Social Democracia Brasileira - PSDB",
+   "recipient" : {
+      "identity" : "sp-nova-odessa@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "nossasaopaulo:cidade" : "Nova Odessa",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "issuedOn" : 1466455757,
+   "nossasaopaulo:prefeito" : "Benjamin Vieira de Souza",
+   "nossasaopaulo:estado" : "SP"
+}

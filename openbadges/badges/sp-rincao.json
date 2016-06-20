@@ -1,0 +1,20 @@
+{
+   "uid" : "sp-rincao",
+   "nossasaopaulo:partido" : "Partido dos Trabalhadores - PT",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sp-rincao.json",
+      "type" : "hosted"
+   },
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "sp-rincao@missing.com"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "nossasaopaulo:cidade" : "Rincão",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "issuedOn" : 1466455757,
+   "nossasaopaulo:prefeito" : "Amarildo Dudu Bolito",
+   "nossasaopaulo:estado" : "SP"
+}

@@ -1,0 +1,20 @@
+{
+   "recipient" : {
+      "identity" : "rs-tres-palmeiras@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "nossasaopaulo:partido" : "Partido Socialista Brasileiro - PSB",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/rs-tres-palmeiras.json",
+      "type" : "hosted"
+   },
+   "uid" : "rs-tres-palmeiras",
+   "nossasaopaulo:estado" : "RS",
+   "nossasaopaulo:prefeito" : "Silvanio Antonio Dias",
+   "nossasaopaulo:cidade" : "Três Palmeiras",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "issuedOn" : 1466455757
+}

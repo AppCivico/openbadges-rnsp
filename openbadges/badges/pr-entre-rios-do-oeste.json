@@ -1,0 +1,20 @@
+{
+   "nossasaopaulo:prefeito" : "Jones Neuri Heiden",
+   "nossasaopaulo:estado" : "PR",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Entre Rios do Oeste",
+   "issuedOn" : 1466455757,
+   "nossasaopaulo:partido" : "Partido Socialista Democrático - PSD",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/pr-entre-rios-do-oeste.json"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "pr-entre-rios-do-oeste@missing.com"
+   },
+   "uid" : "pr-entre-rios-do-oeste"
+}

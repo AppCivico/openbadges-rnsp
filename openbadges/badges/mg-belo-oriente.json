@@ -1,0 +1,20 @@
+{
+   "nossasaopaulo:prefeito" : "Pietro Chaves Filho",
+   "nossasaopaulo:estado" : "MG",
+   "issuedOn" : 1466455757,
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Belo Oriente",
+   "nossasaopaulo:partido" : "Partido Democrático Trabalhista - PDT",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/mg-belo-oriente.json"
+   },
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "mg-belo-oriente@missing.com"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "uid" : "mg-belo-oriente"
+}

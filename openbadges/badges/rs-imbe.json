@@ -1,0 +1,20 @@
+{
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "hashed" : false,
+      "identity" : "rs-imbe@missing.com",
+      "type" : "email"
+   },
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/rs-imbe.json",
+      "type" : "hosted"
+   },
+   "nossasaopaulo:partido" : "Partido dos Trabalhadores - PT",
+   "uid" : "rs-imbe",
+   "nossasaopaulo:estado" : "RS",
+   "nossasaopaulo:prefeito" : "Pierre Emerim da Rosa",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Imbé",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "issuedOn" : 1466455757
+}

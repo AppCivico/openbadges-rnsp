@@ -1,0 +1,20 @@
+{
+   "recipient" : {
+      "type" : "email",
+      "identity" : "ba-pau-brasil@missing.com",
+      "hashed" : false
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/ba-pau-brasil.json",
+      "type" : "hosted"
+   },
+   "nossasaopaulo:partido" : "Partido Democrático Trabalhista - PDT",
+   "uid" : "ba-pau-brasil",
+   "nossasaopaulo:estado" : "BA",
+   "nossasaopaulo:prefeito" : "Alberto Rocha",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Pau Brasil",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "issuedOn" : 1466455757
+}

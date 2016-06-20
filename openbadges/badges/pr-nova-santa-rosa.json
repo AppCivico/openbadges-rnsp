@@ -1,0 +1,20 @@
+{
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "pr-nova-santa-rosa@missing.com"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/pr-nova-santa-rosa.json",
+      "type" : "hosted"
+   },
+   "nossasaopaulo:partido" : "Partido Progressista - PP",
+   "uid" : "pr-nova-santa-rosa",
+   "nossasaopaulo:estado" : "PR",
+   "nossasaopaulo:prefeito" : "Rodrigo Fernandes",
+   "nossasaopaulo:cidade" : "Nova Santa Rosa",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "issuedOn" : 1466455757
+}

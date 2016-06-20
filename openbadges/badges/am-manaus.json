@@ -1,0 +1,20 @@
+{
+   "uid" : "am-manaus",
+   "nossasaopaulo:partido" : "Partido da Social Democracia Brasileira - PSDB",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/am-manaus.json",
+      "type" : "hosted"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "hashed" : false,
+      "identity" : "am-manaus@missing.com",
+      "type" : "email"
+   },
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "nossasaopaulo:cidade" : "Manaus",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "issuedOn" : 1466455757,
+   "nossasaopaulo:prefeito" : "Arthur Virgilio do Carmo Ribeiro Neto",
+   "nossasaopaulo:estado" : "AM"
+}

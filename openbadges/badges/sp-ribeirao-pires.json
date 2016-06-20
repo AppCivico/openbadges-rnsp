@@ -1,0 +1,20 @@
+{
+   "issuedOn" : 1466455757,
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "nossasaopaulo:cidade" : "Ribeirão Pires",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:prefeito" : "Saulo Benevides",
+   "nossasaopaulo:estado" : "SP",
+   "uid" : "sp-ribeirao-pires",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sp-ribeirao-pires.json"
+   },
+   "nossasaopaulo:partido" : "Partido do Movimento Democrático Brasileiro - PMDB",
+   "recipient" : {
+      "type" : "email",
+      "identity" : "sp-ribeirao-pires@missing.com",
+      "hashed" : false
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos"
+}

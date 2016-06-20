@@ -1,0 +1,20 @@
+{
+   "issuedOn" : 1466455757,
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "São Luis",
+   "nossasaopaulo:prefeito" : "Edivaldo Holanda Junior",
+   "nossasaopaulo:estado" : "MA",
+   "uid" : "ma-sao-luis",
+   "nossasaopaulo:partido" : "Partido Trabalhista Cristão - PTC",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/ma-sao-luis.json",
+      "type" : "hosted"
+   },
+   "recipient" : {
+      "type" : "email",
+      "identity" : "ma-sao-luis@missing.com",
+      "hashed" : false
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos"
+}

@@ -1,0 +1,20 @@
+{
+   "uid" : "rj-paraty",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/rj-paraty.json",
+      "type" : "hosted"
+   },
+   "nossasaopaulo:partido" : "Partido dos Trabalhadores - PT",
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "rj-paraty@missing.com"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "issuedOn" : 1466455757,
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Paraty",
+   "nossasaopaulo:prefeito" : "Carlos José G. Miranda",
+   "nossasaopaulo:estado" : "RJ"
+}

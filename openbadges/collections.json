@@ -1,853 +1,853 @@
 {
    "badges" : [
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ac-rio-branco"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ac-rio-branco.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/al-maceio"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/al-maceio.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/al-arapiraca"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/al-arapiraca.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/am-manaus"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/am-manaus.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ap-amapa"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ap-amapa.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ap-ferreira-gomes"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ap-ferreira-gomes.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ap-cutias"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ap-cutias.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ap-pracuuba"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ap-pracuuba.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ap-pedra-branca-do-amapari"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ap-pedra-branca-do-amapari.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ap-vitoria-do-jari"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ap-vitoria-do-jari.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-pau-brasil"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-pau-brasil.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-mulungu-do-morro"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-mulungu-do-morro.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-santa-cruz-cabralia"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-santa-cruz-cabralia.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-salvador"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-salvador.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-caem"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-caem.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-itabuna"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-itabuna.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-itaete"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-itaete.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-ilheus"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-ilheus.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-aratuipe"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-aratuipe.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-camacari"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-camacari.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-madre-de-deus"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ba-madre-de-deus.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ce-eusebio"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ce-eusebio.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ce-jaguaruana"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ce-jaguaruana.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ce-maracanau"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ce-maracanau.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ce-tururu"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ce-tururu.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ce-itaitinga"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ce-itaitinga.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ce-sao-goncalo-do-amarante"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ce-sao-goncalo-do-amarante.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ce-fortaleza"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ce-fortaleza.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/es-colatina"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/es-colatina.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/es-cariacica"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/es-cariacica.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/es-vitoria"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/es-vitoria.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/es-mantenopolis"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/es-mantenopolis.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/es-joao-neiva"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/es-joao-neiva.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-goianesia"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-goianesia.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-uirapuru"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-uirapuru.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-sitio-d'abadia"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-sitio-d'abadia.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-santa-fe-de-goias"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-santa-fe-de-goias.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-senador-canedo"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-senador-canedo.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-alvorada-do-norte"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-alvorada-do-norte.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-paranaiguara"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-paranaiguara.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-goianapolis"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-goianapolis.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-buritinopolis"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-buritinopolis.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-anapolis"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-anapolis.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-perolandia"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-perolandia.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-santa-isabel"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-santa-isabel.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-panama"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-panama.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-castelandia"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-castelandia.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-alto-paraiso"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-alto-paraiso.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-urutai"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-urutai.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-caturai"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-caturai.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-mairipotaba"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-mairipotaba.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-tres-ranchos"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-tres-ranchos.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-goiania"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-goiania.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/go-mundo-novo"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/go-mundo-novo.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ma-timon"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ma-timon.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ma-santa-ines"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ma-santa-ines.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ma-colinas"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ma-colinas.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ma-sao-luis"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ma-sao-luis.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-tiradentes"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-tiradentes.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-caratinga"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-caratinga.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-betim"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-betim.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-santana-do-paraiso"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-santana-do-paraiso.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-manhuacu"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-manhuacu.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-bom-despacho"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-bom-despacho.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-pocos-de-caldas"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-pocos-de-caldas.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-andradas"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-andradas.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-cambui"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-cambui.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-inhapim"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-inhapim.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-timoteo"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-timoteo.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-ouro-fino"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-ouro-fino.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-ipaba"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-ipaba.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-coronel-fabriciano"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-coronel-fabriciano.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-belo-horizonte"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-belo-horizonte.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-manga"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-manga.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-ipatinga"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-ipatinga.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-visconde-do-rio-branco"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-visconde-do-rio-branco.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-caldas"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-caldas.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-sao-joao-del-rei"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-sao-joao-del-rei.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-brazopolis"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-brazopolis.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-esmeraldas"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-esmeraldas.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-ribeirao-das-neves"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-ribeirao-das-neves.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-morro-do-pilar"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-morro-do-pilar.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-marlieria"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-marlieria.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-belo-oriente"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mg-belo-oriente.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ms-ponta-pora"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ms-ponta-pora.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ms-mundo-novo"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ms-mundo-novo.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ms-nova-alvorada-do-sul"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ms-nova-alvorada-do-sul.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mt-alto-taquari"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mt-alto-taquari.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mt-cuiaba"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mt-cuiaba.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mt-caceres"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mt-caceres.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/mt-tapurah"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/mt-tapurah.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-santa-isabel-do-para"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-santa-isabel-do-para.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-braganca"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-braganca.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-dom-eliseu"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-dom-eliseu.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-curralinho"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-curralinho.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-paragominas"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-paragominas.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-ulianopolis"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-ulianopolis.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-belem"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-belem.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-abaetetuba"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-abaetetuba.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-novo-repartimento"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-novo-repartimento.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-santarem"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-santarem.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-juruti"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-juruti.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-tucurui"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pa-tucurui.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-solanea"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-solanea.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-patos"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-patos.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-joao-pessoa"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-joao-pessoa.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-puxinana"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-puxinana.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-remigio"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-remigio.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-parari"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-parari.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-guarabira"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-guarabira.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-amparo"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-amparo.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-bananeiras"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-bananeiras.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-cabedelo"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pb-cabedelo.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-aracoiaba"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-aracoiaba.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-camaragibe"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-camaragibe.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-moreno"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-moreno.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-parnamirim"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-parnamirim.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-sao-bento-do-una"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-sao-bento-do-una.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-recife"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-recife.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-ipojuca"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-ipojuca.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-igarassu"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-igarassu.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-jaboatao-dos-guararapes"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-jaboatao-dos-guararapes.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-bezerros"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-bezerros.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-afogados-da-ingazeira"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-afogados-da-ingazeira.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-goiana"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-goiana.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-itapissuma"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pe-itapissuma.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pi-teresina"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pi-teresina.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-diamante-d'oeste"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-diamante-d'oeste.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-marechal-candido-rondon"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-marechal-candido-rondon.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-diamante-do-sul"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-diamante-do-sul.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-santa-terezinha-de-itaipu"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-santa-terezinha-de-itaipu.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-barracao"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-barracao.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-formosa-do-oeste"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-formosa-do-oeste.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-capitao-leonidas-marques"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-capitao-leonidas-marques.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-foz-do-iguacu"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-foz-do-iguacu.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-ubirata"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-ubirata.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-vera-cruz-do-oeste"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-vera-cruz-do-oeste.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-palotina"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-palotina.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-sao-miguel-do-iguacu"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-sao-miguel-do-iguacu.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-serranopolis-do-iguacu"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-serranopolis-do-iguacu.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-maringa"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-maringa.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-altonia"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-altonia.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-ouro-verde-do-oeste"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-ouro-verde-do-oeste.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-salto-do-lontra"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-salto-do-lontra.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-curitiba"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-curitiba.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-tupassi"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-tupassi.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-guaraniacu"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-guaraniacu.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-pato-bragado"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-pato-bragado.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-maripa"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-maripa.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-assis-chateaubriand"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-assis-chateaubriand.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-sao-pedro-iguacu"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-sao-pedro-iguacu.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-quatro-pontes"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-quatro-pontes.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-ivate"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-ivate.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-guaira"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-guaira.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-ponta-grossa"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-ponta-grossa.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-sao-jose-das-palmeiras"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-sao-jose-das-palmeiras.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-entre-rios-do-oeste"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-entre-rios-do-oeste.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-ceu-azul"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-ceu-azul.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-terra-roxa"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-terra-roxa.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-santa-tereza-do-oeste"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-santa-tereza-do-oeste.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-itaipulandia"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-itaipulandia.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-matelandia"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-matelandia.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-mercedes"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-mercedes.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-nova-santa-rosa"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-nova-santa-rosa.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-paula-freitas"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-paula-freitas.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-santa-helena"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-santa-helena.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-medianeira"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-medianeira.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-ramilandia"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-ramilandia.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-laranjeiras-do-sul"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-laranjeiras-do-sul.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-toledo"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-toledo.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-corbelia"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-corbelia.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-missal"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/pr-missal.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rj-macae"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rj-macae.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rj-paraty"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rj-paraty.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rj-petropolis"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rj-petropolis.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rj-rio-de-janeiro"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rj-rio-de-janeiro.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rj-rio-das-ostras"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rj-rio-das-ostras.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rj-niteroi"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rj-niteroi.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rn-natal"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rn-natal.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/ro-porto-velho"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/ro-porto-velho.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rr-boa-vista"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rr-boa-vista.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-porto-alegre"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-porto-alegre.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-vale-do-sol"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-vale-do-sol.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-erval-grande"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-erval-grande.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-esteio"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-esteio.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-ivoti"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-ivoti.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-cachoeira-do-sul"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-cachoeira-do-sul.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-ajuricaba"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-ajuricaba.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-eldorado-do-sul"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-eldorado-do-sul.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-tapera"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-tapera.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-faxinal-do-soturno"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-faxinal-do-soturno.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-vera-cruz"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-vera-cruz.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-farroupilha"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-farroupilha.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-canoas"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-canoas.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-guarani-das-missoes"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-guarani-das-missoes.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-tres-palmeiras"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-tres-palmeiras.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-imbe"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-imbe.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-carlos-barbosa"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-carlos-barbosa.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-rio-pardo"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-rio-pardo.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-lagoa-vermelha"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-lagoa-vermelha.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-relvado"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-relvado.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-palmares-do-sul"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-palmares-do-sul.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-seberi"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-seberi.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-caxias-do-sul"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-caxias-do-sul.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-torres"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-torres.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-mormaco"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-mormaco.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-alvorada"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-alvorada.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-jaboticaba"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-jaboticaba.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-sao-gabriel"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-sao-gabriel.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-vitoria-das-missoes"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-vitoria-das-missoes.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-nova-santa-rita"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-nova-santa-rita.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-pontao"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/rs-pontao.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-imarui"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-imarui.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-ararangua"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-ararangua.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-pinhalzinho"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-pinhalzinho.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-brusque"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-brusque.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-blumenau"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-blumenau.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-tubarao"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-tubarao.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-antonio-carlos"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-antonio-carlos.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-florianopolis"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-florianopolis.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-bombinhas"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-bombinhas.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-ita"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-ita.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-joinville"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-joinville.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-balneario-rincao"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-balneario-rincao.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-jaragua-do-sul"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-jaragua-do-sul.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-jacinto-machado"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-jacinto-machado.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-icara"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-icara.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-rio-do-sul"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sc-rio-do-sul.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/se-canhoba"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/se-canhoba.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-ribeirao-preto"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-ribeirao-preto.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-patrocinio-paulista"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-patrocinio-paulista.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-promissao"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-promissao.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-nova-odessa"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-nova-odessa.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-itatiba"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-itatiba.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-cruzeiro"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-cruzeiro.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-francisco-morato"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-francisco-morato.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-limeira"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-limeira.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-morungaba"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-morungaba.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-dourado"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-dourado.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-taruma"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-taruma.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-sao-joao-da-boa-vista"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-sao-joao-da-boa-vista.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-guarulhos"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-guarulhos.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-valinhos"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-valinhos.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-guaruja"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-guaruja.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-diadema"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-diadema.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-taubate"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-taubate.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-corumbatai"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-corumbatai.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-bauru"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-bauru.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-guararema"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-guararema.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-lorena"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-lorena.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-campinas"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-campinas.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-descalvado"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-descalvado.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-leme"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-leme.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-sao-jose-dos-campos"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-sao-jose-dos-campos.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-lins"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-lins.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-ubatuba"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-ubatuba.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-tiete"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-tiete.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-rincao"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-rincao.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-mairipora"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-mairipora.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-sorocaba"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-sorocaba.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-ferraz-de-vasconcelos"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-ferraz-de-vasconcelos.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-santos"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-santos.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-ipaussu"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-ipaussu.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-jaguariuna"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-jaguariuna.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-barueri"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-barueri.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-aluminio"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-aluminio.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-sumare"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-sumare.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-sao-caetano-do-sul"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-sao-caetano-do-sul.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-brotas"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-brotas.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-sao-paulo"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-sao-paulo.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-assis"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-assis.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-marilia"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-marilia.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-jundiai"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-jundiai.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-sao-carlos"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-sao-carlos.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-peruibe"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-peruibe.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-ribeirao-pires"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-ribeirao-pires.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-altinopolis"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-altinopolis.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-botucatu"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-botucatu.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-caieiras"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-caieiras.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-tapirai"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-tapirai.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-santa-isabel"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-santa-isabel.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-sao-vicente"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/sp-sao-vicente.json"
       },
       {
-         "url" : "http://badges.nossasaopaulo.org.br/badges/to-peixe"
+         "url" : "http://badges.nossasaopaulo.org.br/badges/to-peixe.json"
       }
    ]
 }

@@ -1,0 +1,20 @@
+{
+   "nossasaopaulo:partido" : "Partido dos Trabalhadores - PT",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sc-ararangua.json"
+   },
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "sc-ararangua@missing.com"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "uid" : "sc-ararangua",
+   "nossasaopaulo:prefeito" : "Sandro Roberto Maciel",
+   "nossasaopaulo:estado" : "SC",
+   "issuedOn" : 1466455757,
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Araranguá"
+}

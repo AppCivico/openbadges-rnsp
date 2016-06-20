@@ -1,0 +1,20 @@
+{
+   "issuedOn" : 1466455757,
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Bombinhas",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "nossasaopaulo:estado" : "SC",
+   "nossasaopaulo:prefeito" : "Ana Paula da Silva",
+   "uid" : "sc-bombinhas",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "identity" : "sc-bombinhas@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   },
+   "nossasaopaulo:partido" : "Partido Democrático Trabalhista - PDT",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sc-bombinhas.json",
+      "type" : "hosted"
+   }
+}

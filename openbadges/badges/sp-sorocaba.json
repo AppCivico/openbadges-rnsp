@@ -1,0 +1,20 @@
+{
+   "nossasaopaulo:prefeito" : "Antonio Carlos Pannunzio",
+   "nossasaopaulo:estado" : "SP",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "nossasaopaulo:cidade" : "Sorocaba",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "issuedOn" : 1466455757,
+   "nossasaopaulo:partido" : "Partido da Social Democracia Brasileira - PSDB",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sp-sorocaba.json",
+      "type" : "hosted"
+   },
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "sp-sorocaba@missing.com"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "uid" : "sp-sorocaba"
+}

@@ -1,0 +1,20 @@
+{
+   "nossasaopaulo:estado" : "PR",
+   "nossasaopaulo:prefeito" : "Claudio Dutra",
+   "nossasaopaulo:cidade" : "São Miguel do Iguaçu",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "issuedOn" : 1466455757,
+   "recipient" : {
+      "identity" : "pr-sao-miguel-do-iguacu@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "nossasaopaulo:partido" : "Partido da República - PR",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/pr-sao-miguel-do-iguacu.json",
+      "type" : "hosted"
+   },
+   "uid" : "pr-sao-miguel-do-iguacu"
+}

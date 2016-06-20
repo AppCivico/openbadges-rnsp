@@ -1,0 +1,20 @@
+{
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/go-alto-paraiso.json"
+   },
+   "nossasaopaulo:partido" : "Partido Socialista Brasileiro - PSB",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "go-alto-paraiso@missing.com"
+   },
+   "uid" : "go-alto-paraiso",
+   "nossasaopaulo:prefeito" : "Alan Gonçalves Barbosa",
+   "nossasaopaulo:estado" : "GO",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Alto Paraíso",
+   "issuedOn" : 1466455757
+}

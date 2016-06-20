@@ -1,0 +1,20 @@
+{
+   "nossasaopaulo:prefeito" : "Udo Dohler",
+   "nossasaopaulo:estado" : "SC",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Joinville",
+   "issuedOn" : 1466455757,
+   "nossasaopaulo:partido" : "Partido do Movimento Democrático Brasileiro - PMDB",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sc-joinville.json",
+      "type" : "hosted"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "hashed" : false,
+      "identity" : "sc-joinville@missing.com",
+      "type" : "email"
+   },
+   "uid" : "sc-joinville"
+}

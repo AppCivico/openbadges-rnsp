@@ -1,0 +1,20 @@
+{
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Botucatu",
+   "issuedOn" : 1466455757,
+   "nossasaopaulo:prefeito" : "João Cury Neto",
+   "nossasaopaulo:estado" : "SP",
+   "uid" : "sp-botucatu",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sp-botucatu.json",
+      "type" : "hosted"
+   },
+   "nossasaopaulo:partido" : "Partido da Social Democracia Brasileira - PSDB",
+   "recipient" : {
+      "hashed" : false,
+      "identity" : "sp-botucatu@missing.com",
+      "type" : "email"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos"
+}

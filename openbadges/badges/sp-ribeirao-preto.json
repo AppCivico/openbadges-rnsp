@@ -1,0 +1,20 @@
+{
+   "recipient" : {
+      "type" : "email",
+      "identity" : "sp-ribeirao-preto@missing.com",
+      "hashed" : false
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sp-ribeirao-preto.json",
+      "type" : "hosted"
+   },
+   "nossasaopaulo:partido" : "Partido Social Democrático - PSD",
+   "uid" : "sp-ribeirao-preto",
+   "nossasaopaulo:estado" : "SP",
+   "nossasaopaulo:prefeito" : "Darcy Vera",
+   "nossasaopaulo:cidade" : "Ribeirão Preto",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "issuedOn" : 1466455757
+}

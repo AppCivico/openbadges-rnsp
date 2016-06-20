@@ -1,0 +1,20 @@
+{
+   "nossasaopaulo:partido" : "Partido da Social Democracia Brasileira - PSDB",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sp-lorena.json"
+   },
+   "recipient" : {
+      "hashed" : false,
+      "identity" : "sp-lorena@missing.com",
+      "type" : "email"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "uid" : "sp-lorena",
+   "nossasaopaulo:prefeito" : "Fábio Marcondes",
+   "nossasaopaulo:estado" : "SP",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Lorena",
+   "issuedOn" : 1466455757
+}

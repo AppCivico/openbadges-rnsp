@@ -1,0 +1,20 @@
+{
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Bezerros",
+   "issuedOn" : 1466455757,
+   "nossasaopaulo:prefeito" : "Severino Otávio Raposo Monteiro",
+   "nossasaopaulo:estado" : "PE",
+   "uid" : "pe-bezerros",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/pe-bezerros.json",
+      "type" : "hosted"
+   },
+   "nossasaopaulo:partido" : "Partido Socialista Brasileiro - PSB",
+   "recipient" : {
+      "type" : "email",
+      "identity" : "pe-bezerros@missing.com",
+      "hashed" : false
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos"
+}

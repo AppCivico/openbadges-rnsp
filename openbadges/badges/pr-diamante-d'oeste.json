@@ -1,0 +1,20 @@
+{
+   "nossasaopaulo:prefeito" : "Renato Antonio Pereira",
+   "nossasaopaulo:estado" : "PR",
+   "issuedOn" : 1466455757,
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Diamante D'Oeste",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/pr-diamante-d'oeste.json"
+   },
+   "nossasaopaulo:partido" : "Partido do Movimento Democrático Brasileiro - PMDB",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "identity" : "pr-diamante-d'oeste@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   },
+   "uid" : "pr-diamante-d'oeste"
+}

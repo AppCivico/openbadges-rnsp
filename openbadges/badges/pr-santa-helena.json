@@ -1,0 +1,20 @@
+{
+   "nossasaopaulo:prefeito" : "Jucerlei Sotoriva",
+   "nossasaopaulo:estado" : "PR",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "nossasaopaulo:cidade" : "Santa Helena",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "issuedOn" : 1466455757,
+   "nossasaopaulo:partido" : "Partido Progressista - PP",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/pr-santa-helena.json"
+   },
+   "recipient" : {
+      "hashed" : false,
+      "identity" : "pr-santa-helena@missing.com",
+      "type" : "email"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "uid" : "pr-santa-helena"
+}

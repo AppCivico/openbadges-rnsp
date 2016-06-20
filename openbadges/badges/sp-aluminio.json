@@ -1,0 +1,20 @@
+{
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Alumínio",
+   "issuedOn" : 1466455757,
+   "nossasaopaulo:prefeito" : "José Aparecida Tisêo",
+   "nossasaopaulo:estado" : "SP",
+   "uid" : "sp-aluminio",
+   "verify" : {
+      "type" : "hosted",
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sp-aluminio.json"
+   },
+   "nossasaopaulo:partido" : "Partido da Social Democracia Brasileira - PSDB",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "sp-aluminio@missing.com"
+   }
+}

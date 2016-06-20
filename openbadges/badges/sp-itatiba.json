@@ -1,0 +1,20 @@
+{
+   "nossasaopaulo:partido" : "Partido da Social Democracia Brasileira - PSDB",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sp-itatiba.json",
+      "type" : "hosted"
+   },
+   "recipient" : {
+      "hashed" : false,
+      "identity" : "sp-itatiba@missing.com",
+      "type" : "email"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "uid" : "sp-itatiba",
+   "nossasaopaulo:prefeito" : "João Gualberto Fattori",
+   "nossasaopaulo:estado" : "SP",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "nossasaopaulo:cidade" : "Itatiba",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "issuedOn" : 1466455757
+}

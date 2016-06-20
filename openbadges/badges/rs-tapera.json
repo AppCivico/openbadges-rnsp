@@ -1,0 +1,20 @@
+{
+   "uid" : "rs-tapera",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "hashed" : false,
+      "identity" : "rs-tapera@missing.com",
+      "type" : "email"
+   },
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/rs-tapera.json",
+      "type" : "hosted"
+   },
+   "nossasaopaulo:partido" : "Partido Progressista - PP",
+   "issuedOn" : 1466455757,
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Tapera",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "nossasaopaulo:estado" : "RS",
+   "nossasaopaulo:prefeito" : "Irineu Orth"
+}

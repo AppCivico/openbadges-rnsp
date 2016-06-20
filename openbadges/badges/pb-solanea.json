@@ -1,0 +1,20 @@
+{
+   "uid" : "pb-solanea",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/pb-solanea.json",
+      "type" : "hosted"
+   },
+   "nossasaopaulo:partido" : "Partido Popular Socialista - PPS",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "identity" : "pb-solanea@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   },
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "nossasaopaulo:cidade" : "Solânea",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "issuedOn" : 1466455757,
+   "nossasaopaulo:prefeito" : "Sebastião Alberto Cândido da Cruz",
+   "nossasaopaulo:estado" : "PB"
+}

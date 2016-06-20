@@ -1,0 +1,20 @@
+{
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/mg-bom-despacho.json",
+      "type" : "hosted"
+   },
+   "nossasaopaulo:partido" : "Partido Popular Socialista - PPS",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "hashed" : false,
+      "identity" : "mg-bom-despacho@missing.com",
+      "type" : "email"
+   },
+   "uid" : "mg-bom-despacho",
+   "nossasaopaulo:prefeito" : "Fernando José Castro Cabral",
+   "nossasaopaulo:estado" : "MG",
+   "issuedOn" : 1466455757,
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "nossasaopaulo:cidade" : "Bom Despacho",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json"
+}

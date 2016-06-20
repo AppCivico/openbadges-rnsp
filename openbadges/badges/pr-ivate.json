@@ -1,0 +1,20 @@
+{
+   "uid" : "pr-ivate",
+   "recipient" : {
+      "hashed" : false,
+      "identity" : "pr-ivate@missing.com",
+      "type" : "email"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "nossasaopaulo:partido" : "Partido Popular Socialista - PPS",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/pr-ivate.json",
+      "type" : "hosted"
+   },
+   "issuedOn" : 1466455757,
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Ivaté",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "nossasaopaulo:estado" : "PR",
+   "nossasaopaulo:prefeito" : "Sidnei Delai"
+}

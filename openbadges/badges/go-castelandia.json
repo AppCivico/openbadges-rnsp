@@ -1,0 +1,20 @@
+{
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "go-castelandia@missing.com"
+   },
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/go-castelandia.json",
+      "type" : "hosted"
+   },
+   "nossasaopaulo:partido" : "Partido Social Democrático - PSD",
+   "uid" : "go-castelandia",
+   "nossasaopaulo:estado" : "GO",
+   "nossasaopaulo:prefeito" : "Ednaldo Andrade Miguel",
+   "nossasaopaulo:cidade" : "Castelândia",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "issuedOn" : 1466455757
+}

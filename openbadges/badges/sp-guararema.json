@@ -1,0 +1,20 @@
+{
+   "uid" : "sp-guararema",
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "identity" : "sp-guararema@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   },
+   "nossasaopaulo:partido" : "Partido da República - PR",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sp-guararema.json",
+      "type" : "hosted"
+   },
+   "nossasaopaulo:cidade" : "Guararema",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "issuedOn" : 1466455757,
+   "nossasaopaulo:estado" : "SP",
+   "nossasaopaulo:prefeito" : "Marcio Luiz Alvino de Souza"
+}

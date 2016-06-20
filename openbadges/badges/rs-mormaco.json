@@ -1,0 +1,20 @@
+{
+   "uid" : "rs-mormaco",
+   "nossasaopaulo:partido" : "Partido Progressista - PP",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/rs-mormaco.json",
+      "type" : "hosted"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "recipient" : {
+      "identity" : "rs-mormaco@missing.com",
+      "hashed" : false,
+      "type" : "email"
+   },
+   "issuedOn" : 1466455757,
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Mormaço",
+   "nossasaopaulo:prefeito" : "Luis Carlos Machado",
+   "nossasaopaulo:estado" : "RS"
+}

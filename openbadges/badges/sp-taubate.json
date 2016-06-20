@@ -1,0 +1,20 @@
+{
+   "recipient" : {
+      "type" : "email",
+      "hashed" : false,
+      "identity" : "sp-taubate@missing.com"
+   },
+   "evidence" : "http://www.cidadessustentaveis.org.br/signatarios-candidatos",
+   "verify" : {
+      "url" : "http://badges.nossasaopaulo.org.br/badges/sp-taubate.json",
+      "type" : "hosted"
+   },
+   "nossasaopaulo:partido" : "Partido da Social Democracia Brasileira - PSDB",
+   "uid" : "sp-taubate",
+   "nossasaopaulo:estado" : "SP",
+   "nossasaopaulo:prefeito" : "José Bernardo Ortiz Monteiro Junior",
+   "badge" : "http://badges.nossasaopaulo.org.br/pcs.json",
+   "nossasaopaulo:cidade" : "Taubaté",
+   "image" : "http://cidadessustentaveis.org.br/sites/default/files/logo.png",
+   "issuedOn" : 1466455757
+}
