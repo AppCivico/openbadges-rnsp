@@ -1,0 +1,81 @@
+body{font-family: 'Open Sans', sans-serif;}
+.header-content{
+	background-image: url(../img/img-destaque.jpg);
+	background-size: cover; 
+	color: white;
+	font-size: 20px;
+	min-height: 200px
+}
+.header-content .container{height: 100%}
+.header-content .container .row{
+	display: table; 
+	height: 100%; 
+	overflow: hidden;
+	width: 100%;
+}
+.texto-destaque{
+	position: relative;
+	display: table-cell; 
+	vertical-align: middle;
+	font-weight: 300;
+}
+.logo-container img{
+	width: 20%;
+	display: inline-block;
+}
+
+.descricao{padding: 0 0 100px}
+
+.txt-selo-cidades, .txt-o-que-e-openbadges{
+	margin: 30px 0 0;
+}
+.txt-selo-cidades a{color: #3bb023}
+.txt-selo-cidades h2{
+	color:#3bb023;
+	margin: 0 0 40px;
+}
+
+.txt-o-que-e-openbadges h2{
+	color:#122a46;
+	margin: 0 0 40px;
+}
+.txt-o-que-e-openbadges p, .txt-selo-cidades p{padding: 0 20px 0 0;}
+.powered-by{font-weight: 600; font-style: italic; color: #122a46}
+.como-usar{
+	background: #47a64e; 
+	color: white;
+	padding: 60px 0 100px;
+}
+.como-usar .container{
+	
+}
+.como-usar-modulo-wrap{
+	display: table;
+	height: 170px;
+	position: relative;
+	vertical-align: middle
+}
+.como-usar-modulo{
+	display: table-cell;
+	position: relative;
+	vertical-align: middle
+}
+.como-usar-modulo a{color: white; font-weight: 600; font-style: italic}
+footer{background: #0f111a; color: white; padding: 40px 0}
+.apoio{
+	
+}
+.apoio img{width: 100px; margin: 0 25px}
+.implementado-por img{width: 60px; margin: 0 25px}
+.apoio, .implementado-por{height: 59px; line-height: 59px}
+.logo-cidades-sustentaveis{height: 59px}
+.logo-cidades-sustentaveis img{width: 160px; display: inline-block}
+@media(min-width: 992px){
+	.logo-cidades-sustentaveis{text-align: right;}
+}
+@media(max-width: 991px){
+	.apoio, .implementado-por, .logo-cidades-sustentaveis{text-align: center; margin: 20px 0}
+}
+@media(min-width:992px) and (max-width:1199px){
+	.implementado-por img{margin: 0 4px!important}
+}
